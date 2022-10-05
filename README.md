@@ -1,5 +1,5 @@
 ## Node.js and Express Backend Application/API - Amazon Scraper API
-### A Backend Application/API Built for for scraping product data from Amazon. 
+### A Backend Application/API Built for scraping product data from Amazon. 
 ### Built using Node.js and Express to create a Server and to be hosted on RapidAPI.
 
 ### Features: 
